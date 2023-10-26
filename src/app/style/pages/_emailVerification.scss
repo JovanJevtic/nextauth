@@ -1,0 +1,17 @@
+#emailVerificationPage {
+    height: 90vh;
+    width: 100%;
+
+    h1 {
+        font-size: 42px;
+        font-weight: bold;
+    }
+
+    .success-wrapper {
+        background: green;
+    }
+
+    .error-wrapper {
+        background: red;
+    }
+}
