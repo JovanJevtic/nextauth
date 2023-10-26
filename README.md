@@ -1,6 +1,8 @@
-# Boilerplate for next applications providing email and password registration, email verification, google signup
+# Boilerplate for NextJS13 applications providing email and password registration, email verification, google signIn
 
 ## Built using:
+next 13.5 (app router)
+react
 next-auth
 prisma
 nodemailer
